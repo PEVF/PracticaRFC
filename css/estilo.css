@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(0, 250, 117);
+    align-items: center;
+}
+
+h1{
+    color: #111138;
+    font-style:italic;
+}
+
+h2{
+    color: #001f00;
+    font-style:italic;
+}
+
+h3{
+    color: #462905;
+    font-style:initial;
+    font-size: 150%;
+}
+
+.container{
+    margin: 12;
+}
+
+.contenedor{
+    display: flex;
+    align-items: center;
+    height:100px;
+    width:800px;
+     text-align:center;
+     margin:0px auto;
+}
+
+.cont{
+    position: center;
+    height:30px;
+    width:400px;
+     margin:0px auto;
+}
+
+.cont1{    
+    display: flex;
+    align-items: center;
+    height:100px;
+    width:800px;
+    text-align:center;
+     margin:0px auto;
+}
+
+.cont2{
+    position: center;
+    height:30px;
+    width:400px;
+     margin:0px auto;
+}
